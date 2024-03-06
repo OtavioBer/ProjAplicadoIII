@@ -7,7 +7,7 @@
 ### Integrantes
 	Caroline Ribeiro Ferreira 
 	Lais César Fonseca
-  Leonardo dos Reis Olher
+	Leonardo dos Reis Olher
 	Liliane Gonçalves de Brito Ferraz 
 	Mucio Emanuel Feitosa Ferraz Filho
 	Otavio Bernardo Scandiuzzi
